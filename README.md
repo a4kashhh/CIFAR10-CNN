@@ -1,5 +1,5 @@
 
-# CIFAR10-CNN
+# CIFAR10 - CNN
 ### Deep Learning based Image Classification using PyTorch and Convolutional Neural Networks
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
