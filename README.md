@@ -245,7 +245,7 @@ This project helped in understanding:
 
 ## License
 
-This project is open-source and available for educational and research purposes.
+This project is open-source and available for educational and research purpose.
 
 ---
 
